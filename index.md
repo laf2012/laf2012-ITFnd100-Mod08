@@ -6,7 +6,7 @@ Foundations of Programming, Python
 
 Assignment 08
 
-[Git Hub](https://github.com/laf2012/IntroToProg-Python-Mod06)[Repository](https://github.com/laf2012/laf2012-ITFnd100-Mod08)
+[Git Hub Repository](https://github.com/laf2012/laf2012-ITFnd100-Mod08)
 
 [Git Hub Website](https://laf2012.github.io/laf2012-ITFnd100-Mod08/)
 
