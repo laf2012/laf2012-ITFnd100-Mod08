@@ -82,12 +82,15 @@ _Figure 11 Note that we have laid out our while loop logic that will guide our u
 13. We now have our script complete!
 
 ![](Images/Picture12.png) ![](Images/Picture13.png) ![](Images/Picture14.png)
+
 _Figure 9 Completed Assignment 08. As shown in PyCharm._
 
 ![](Images/Picture15.png) ![](Images/Picture16.png)_
+
 Figure 10 Completed Assignment 07, as shown in a command window._
 
 ![](Images/Picture17.png)
+
 _Figure 11 Resulting Products.txt from Assignment 08's executed script._
 
 # Summary
