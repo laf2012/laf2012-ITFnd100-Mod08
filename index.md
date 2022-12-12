@@ -50,6 +50,7 @@ _Figure 4 This method will be returning our class data (product\_name & product\
 _Figure 5 Our defined **FileProcessor class** and **attributes** of **file\_name** and **ProductsList**. Note that in Figure 1 that we had a global variable that handled **ProductsList**. We instead are defining that variable here as an attribute for better organization. Additionally, as opposed to our Product class, we are not defining this as an object class since this class deals more strictly with methods versus the more detailed attributes and properties in our Product class._
 
 1. We then want to consider the objectives outlined above that we want performed by our script. For each of these functions, we want to define a method.
+
  ![](Images/Picture6.png)
 
 _Figure 6 To assist with formatting these methods, I referenced the **static methods** created back in assignment 06 since this involved the same baseline functions. However, we are converting these methods away from being static using the self keyword. This is because we are working these methods through the objects defined in our Product class. Since these objects will be referencing these methods, we do not want them to remain static (PYTHON PROGRAMMING FOR THE ABSOLUTE BEGINNER 3RD ADDITION, MICHAEL DAWSON, CENGAGE LEARNING 2010, P. 231-232)._
