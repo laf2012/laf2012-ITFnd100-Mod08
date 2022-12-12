@@ -44,6 +44,7 @@ _Figure 3 Each of our attributes have been given **getter** and **setter propert
 _Figure 4 This method will be returning our class data (product\_name & product\_value) back as a string. This is indicated by invoking **the \_\_str\_\_()** method (\_MOD8PYTHONPROGRAMMINGNOTES.DOCX 2022, PG 12 -14)._
 
 1. With our Product class defined, we now want to consider the next steps in our script. Eventually we will be presenting our user a menu to input these products and their values. However, underneath this interaction lies all the behind-the-scenes work (from our user's perspective), which involves functions that permit our user to add, remove, review, and save to a growing list. To keep all these functions organized, we want to create an additional class entitled _FileProcessor_. Like the _Product_ class, we will additionally create an accompanying constructor with associated attributes as well.
+
  ![](Images/Picture5.png)
 
 _Figure 5 Our defined **FileProcessor class** and **attributes** of **file\_name** and **ProductsList**. Note that in Figure 1 that we had a global variable that handled **ProductsList**. We instead are defining that variable here as an attribute for better organization. Additionally, as opposed to our Product class, we are not defining this as an object class since this class deals more strictly with methods versus the more detailed attributes and properties in our Product class._
