@@ -80,6 +80,7 @@ _Figure 10 This variable of **fp** will be how we tell our script to process the
 _Figure 11 Note that we have laid out our while loop logic that will guide our user through their products menu. However, unlike in the similar script for Assignment 06, we do not need to define all our involved variables since those are handled in our previous classes. The result is much more clean main body of code._
 
 13. We now have our script complete!
+
 ![](Images/Picture12.png) ![](Images/Picture13.png) ![](Images/Picture14.png)
 _Figure 9 Completed Assignment 08. As shown in PyCharm._
 
